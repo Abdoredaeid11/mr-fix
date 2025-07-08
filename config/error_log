@@ -1,0 +1,8 @@
+[15-Jun-2025 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mrfix/public_html/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mrfix/public_html/config/app.php on line 19
+[15-Jun-2025 16:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mrfix/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mrfix/public_html/config/mail.php on line 16

@@ -1,0 +1,18 @@
+.sidebar, .sidebar {
+    right: 0;
+}
+
+.sidebar, .sidebar[data-background-color=white] {
+    right: 0;
+}
+
+
+.main-panel {
+    float: left;
+}
+ul.nav.nav-secondary {
+    padding-right: 0px;
+}
+        a.btn.btn-sm.btn-success {
+    margin-left: 10px !important;
+}
